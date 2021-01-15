@@ -1,0 +1,6 @@
+Chris 25 15 0
+Marina 20 9 10
+Anna 27 10 5
+Marilena 28 0 0
+Thanos 25 0 0
+Nikos 31 32 0

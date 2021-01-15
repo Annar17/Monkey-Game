@@ -1,0 +1,12 @@
+C:\Users\annar\source\repos\Atomiki\Atomiki\bin\Debug\Atomiki.exe.config
+C:\Users\annar\source\repos\Atomiki\Atomiki\bin\Debug\Atomiki.exe
+C:\Users\annar\source\repos\Atomiki\Atomiki\bin\Debug\Atomiki.pdb
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.csprojAssemblyReference.cache
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.Form1.resources
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.Properties.Resources.resources
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.csproj.GenerateResource.cache
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.csproj.CoreCompileInputs.cache
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.exe
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.pdb
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.Form2.resources
+C:\Users\annar\source\repos\Atomiki\Atomiki\obj\Debug\Atomiki.Form3.resources
